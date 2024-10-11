@@ -529,7 +529,7 @@
                         $(".fa", this).removeClass("fa-times");
                         $(".fa", this).addClass("fa-bars");
                     });
-
+                
                 //     // Scroll
                 //     var scrollTop = $(window).scrollTop(),
                 //         $anchor = $(this).find('a'),
@@ -568,7 +568,12 @@
                     var resizeTimer = setTimeout(fixSpy, 200);
                 });
             }
-        }
+        )
+        // }
+        // }
+    };
+    
+    }
     };
     
     // Initialize
@@ -593,6 +598,6 @@
         $(".navbar-collapse").removeClass("on");
         $(".navbar-collapse").removeClass("bounceIn");      
     });
-    
+
 }(jQuery));
 
