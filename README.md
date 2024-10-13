@@ -40,7 +40,7 @@ Pour commencer avec ListGo, clonez simplement le dépôt et ouvrez le fichier `i
 
 1. Cloner le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/ListGo.git
+   git clone https://github.com/aliyara290/ListGo.git
    ```
 2. Naviguer dans le répertoire du projet :
    ```bash
@@ -66,7 +66,7 @@ Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 ## Auteurs
 -------
 
-* **Ali** - Développeur principal
+* **Ali Yara** - Développeur principal
 
 ## Remerciements
 --------------
