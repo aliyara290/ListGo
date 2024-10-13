@@ -7,6 +7,15 @@
 
 ListGo est une plateforme web conçue pour aider les utilisateurs à trouver les meilleurs endroits, restaurants, hôtels et biens immobiliers. Que vous planifiez des vacances ou que vous recherchiez un bien immobilier, ListGo fournit une interface intuitive pour découvrir facilement les lieux les mieux notés.
 
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Dark | ![#000000](https://via.placeholder.com/10/000000?text=+) #000 |
+| Blue | ![#0000ff](https://via.placeholder.com/10/0000ff?text=+) #0000ff |
+| White | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #fff |
+
+
 ## Fonctionnalités
 ------------
 
